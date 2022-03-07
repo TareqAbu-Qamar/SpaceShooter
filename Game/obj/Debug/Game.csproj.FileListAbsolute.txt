@@ -1,0 +1,39 @@
+C:\Users\SE04-C1L2\Documents\Visual Studio 2015\Projects\Game\Game\bin\Debug\Game.exe.config
+C:\Users\SE04-C1L2\Documents\Visual Studio 2015\Projects\Game\Game\bin\Debug\Game.exe
+C:\Users\SE04-C1L2\Documents\Visual Studio 2015\Projects\Game\Game\bin\Debug\Game.pdb
+C:\Users\SE04-C1L2\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.CreateProfile.resources
+C:\Users\SE04-C1L2\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.Form1.resources
+C:\Users\SE04-C1L2\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.HistoryForm.resources
+C:\Users\SE04-C1L2\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.NewGameForm.resources
+C:\Users\SE04-C1L2\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\SE04-C1L2\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.StatisticsForm.resources
+C:\Users\SE04-C1L2\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.Steps.resources
+C:\Users\SE04-C1L2\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+C:\Users\SE04-C1L2\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.exe
+C:\Users\SE04-C1L2\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.pdb
+C:\Users\SE04-C1L2\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\SE04-C1L2\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.Test.resources
+C:\Users\Burhan\Desktop\Game (1)\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Burhan\Desktop\Game (1)\Game\Game\bin\Debug\Game.exe
+C:\Users\Burhan\Desktop\Game (1)\Game\Game\bin\Debug\Game.pdb
+C:\Users\Burhan\Desktop\Game (1)\Game\Game\obj\Debug\Game.CreateProfile.resources
+C:\Users\Burhan\Desktop\Game (1)\Game\Game\obj\Debug\Game.Form1.resources
+C:\Users\Burhan\Desktop\Game (1)\Game\Game\obj\Debug\Game.HistoryForm.resources
+C:\Users\Burhan\Desktop\Game (1)\Game\Game\obj\Debug\Game.NewGameForm.resources
+C:\Users\Burhan\Desktop\Game (1)\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Burhan\Desktop\Game (1)\Game\Game\obj\Debug\Game.StatisticsForm.resources
+C:\Users\Burhan\Desktop\Game (1)\Game\Game\obj\Debug\Game.Steps.resources
+C:\Users\Burhan\Desktop\Game (1)\Game\Game\obj\Debug\Game.Test.resources
+C:\Users\Burhan\Desktop\Game (1)\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\Burhan\Desktop\Game (1)\Game\Game\obj\Debug\Game.exe
+C:\Users\Burhan\Desktop\Game (1)\Game\Game\obj\Debug\Game.pdb
+C:\Users\Burhan\Desktop\Game (1)\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Burhan\Desktop\Game (1)\Game\Game\bin\Debug\Resources\b1.jpg
+C:\Users\Burhan\Desktop\Game (1)\Game\Game\bin\Debug\Resources\a.jpg
+C:\Users\Burhan\Desktop\Game (1)\Game\Game\bin\Debug\Resources\b.jpg
+C:\Users\Burhan\Desktop\Game (1)\Game\Game\bin\Debug\Resources\c.jpg
+C:\Users\Burhan\Desktop\Game (1)\Game\Game\bin\Debug\Resources\d.jpg
+C:\Users\Burhan\Desktop\Game (1)\Game\Game\bin\Debug\Resources\c1.jpg
+C:\Users\Burhan\Desktop\Game (1)\Game\Game\bin\Debug\Resources\d1.jpg
+C:\Users\Burhan\Desktop\Game (1)\Game\Game\bin\Debug\Resources\a1.jpg
+C:\Users\Burhan\Desktop\Game (1)\Game\Game\obj\Debug\Game.Form2.resources
